@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&family=Creepster&display=swap');
+/********************************
+     universal styles
+********************************/
+*{
+     margin: 0;
+     padding: 0;
+     font-family: 'mountians of christmas', cursive;
+}
+
+/********************************
+     header styles
+********************************/
+
+#header{
+    height: 100vh;
+    background-image:url(../images/background.png);
+    background-position: center;
+}
+
+.header-text{
+    text-align: center;
+}
+
+h1{
+    padding-top: 70px;
+    font-size:100px;
+    color: #c61610;
+}
+
+.contanier{
+    text-align: center;
+    margin-top: 300px;
+}
+
+.letter-text{
+    display: inline-block;
+    font-size: 30px; 
+    width: 600px;
+   text-align: left; 
+   color:rgb(49,48 48);
+}
+
+h2{
+    color: #c61610;
+}
+.list-text{
+    display: inline-block;
+    text-align: left;
+    
+}
